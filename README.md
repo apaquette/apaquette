@@ -38,5 +38,5 @@ Currently building enterprise Python-based ETL and automation systems at Royal B
 
 💼 [LinkedIn](https://linkedin.com/in/apaquette0)
 
-🔗 [Portfolio](https://github.com/apaquette/Portfolio)
+🔗 [Portfolio](https://alexpaquette.dev/)
 
